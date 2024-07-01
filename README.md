@@ -1,2 +1,2 @@
 # ds_lessons
-data science lessons
+Use google collab or kaggle IDE`s because of preinstalled libraries
